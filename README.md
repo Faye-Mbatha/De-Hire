@@ -1,15 +1,23 @@
 # dehire
 
-Welcome to your new dehire project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
+Welcome to your new dehire project and to the internet computer development community. 
 
-To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
+In the current talent acquisition landscape, there are often challenges like:
+Subjective Candidate Evaluation that may lead to the risk of overlooking qualified candidates or making unfair hiring decisions. 
+Time-Consuming Process: The traditional candidate shortlisting process is time-consuming, resulting in delays in the hiring process and increased time-to-fill for open positions.
+High Volume of Applications: Many organizations receive a large volume of applications for job postings, making it difficult to efficiently review and identify the most qualified candidates.
+The Automated Candidate Shortlisting System is a groundbreaking solution that leverages ICP smart contract canisters to automate and streamline the candidate shortlisting process.
+By utilizing ICP Canister smart contracts, the system offers unprecedented efficiency and transparency in candidate evaluation.
 
-To learn more before you start working with dehire, see the following documentation available online:
+Key Features and Benefits:
+Decentralized Candidate Evaluation: The system automates the process of candidate evaluation and shortlisting using smart contracts, ensuring a decentralized and tamper-proof approach to candidate assessment.
+Immutable Record-Keeping: Smart contracts enable the creation of immutable records for candidate evaluations, providing a transparent and auditable history of the shortlisting process.
+Automated Criteria Matching: Through the use of predefined criteria and programmable logic in the ICP canister, the system automatically matches job requirements with candidate profiles, reducing manual intervention and bias
 
 - [Quick Start](https://internetcomputer.org/docs/current/developer-docs/setup/deploy-locally)
 - [SDK Developer Tools](https://internetcomputer.org/docs/current/developer-docs/setup/install)
 - [Motoko Programming Language Guide](https://internetcomputer.org/docs/current/motoko/main/motoko)
-- [Motoko Language Quick Reference](https://internetcomputer.org/docs/current/motoko/main/language-manual)
+- [Motoko Language Quick Reference](https://internetcomputer.org/do
 
 If you want to start working on your project right away, you might want to try the following commands:
 
