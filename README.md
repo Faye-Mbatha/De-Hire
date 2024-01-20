@@ -1,4 +1,5 @@
-# dehire
+# DE-HIRE
+
 
 Welcome to your new dehire project and to the internet computer development community. 
 
